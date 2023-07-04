@@ -1,7 +1,6 @@
 body {
     border-radius: 15vh;
     height: 150px;
-    display: flex; 
    justify-content: center;
     background-color: #c8c8c8;
 color: #00000087;
@@ -11,8 +10,6 @@ box-shadow: 0 0 20px 10px;
 }
 
 .container {
-    display: flex;
-    justify-content: center;
 text-align: center;
 margin-top: 300px;
 
