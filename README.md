@@ -7,7 +7,7 @@
 
 
 
-  <p>O projeto em questão é um simples relógio digital com data e dia da semana atualizados automaticamente.<br>Ele utiliza tecnologias web, como HTML, CSS e JavaScript, para exibir as informações de forma dinâmica em um navegador.</p>
+  <p>O projeto em questão é um simples relógio digital com data e dia da semana atualizados automaticamente. Ele também <br>Ele utiliza tecnologias web, como HTML, CSS e JavaScript, para exibir as informações de forma dinâmica em um navegador. Além disso, foi adicionado um recurso extra de exibir uma frase reflexiva para cada dia da semana. Uma função foi implementada para obter a frase reflexiva correspondente ao dia atual e exibi-la junto com as demais informações do relógio.</p>
 
 
   # Link pra acessar: 
